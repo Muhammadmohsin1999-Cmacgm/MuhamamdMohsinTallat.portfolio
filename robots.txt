@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://muhammadmohsin1999-cmacgm.github.io/Muhammad-Mohsin-Tallat--Portfolio-/sitemap.xml
